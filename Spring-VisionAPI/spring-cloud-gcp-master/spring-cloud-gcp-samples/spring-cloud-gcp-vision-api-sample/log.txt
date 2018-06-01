@@ -1,0 +1,7 @@
+INFO    2018-05-26 12:13:08,532 [http-nio-8080-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-26 14:12:32,085 [http-nio-8080-exec-2] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-26 14:18:35,952 [http-nio-8080-exec-6] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-29 13:16:25,359 [http-nio-8080-exec-1] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-29 13:20:16,640 [http-nio-8080-exec-3] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-29 13:23:41,756 [http-nio-8080-exec-5] com.example.VisionController  - VisionAPI Builded
+INFO    2018-05-29 13:30:24,381 [http-nio-8080-exec-7] com.example.VisionController  - VisionAPI Builded

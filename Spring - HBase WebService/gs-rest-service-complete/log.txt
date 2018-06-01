@@ -1,0 +1,21 @@
+ERROR   2018-05-26 09:54:34,744 [main] hello.Application  - Error..
+DEBUG   2018-05-26 09:54:37,362 [main] org.apache.htrace.core.Tracer  - sampler.classes = ; loaded no samplers
+DEBUG   2018-05-26 09:54:37,398 [main] org.apache.htrace.core.Tracer  - span.receiver.classes = ; loaded no span receivers
+INFO    2018-05-29 13:16:25,862 [main] hello.Application  - ResponseEntity Object Executed
+DEBUG   2018-05-29 13:16:42,702 [main] org.apache.htrace.core.Tracer  - sampler.classes = ; loaded no samplers
+DEBUG   2018-05-29 13:16:42,736 [main] org.apache.htrace.core.Tracer  - span.receiver.classes = ; loaded no span receivers
+INFO    2018-05-29 13:20:16,845 [main] hello.Application  - ResponseEntity Object Executed
+DEBUG   2018-05-29 13:20:21,404 [main] org.apache.htrace.core.Tracer  - sampler.classes = ; loaded no samplers
+DEBUG   2018-05-29 13:20:21,438 [main] org.apache.htrace.core.Tracer  - span.receiver.classes = ; loaded no span receivers
+INFO    2018-05-29 13:20:24,206 [main] hello.HBaseConnection  - Table Created
+INFO    2018-05-29 13:20:24,673 [main] hello.HBaseConnection  - GVision Data inserted in table
+INFO    2018-05-29 13:23:41,937 [main] hello.Application  - ResponseEntity Object Executed
+DEBUG   2018-05-29 13:23:45,585 [main] org.apache.htrace.core.Tracer  - sampler.classes = ; loaded no samplers
+DEBUG   2018-05-29 13:23:45,620 [main] org.apache.htrace.core.Tracer  - span.receiver.classes = ; loaded no span receivers
+INFO    2018-05-29 13:23:46,062 [main] hello.HBaseConnection  - GVision Data inserted in table
+INFO    2018-05-29 13:23:46,070 [main] hello.HBaseConnection  - MSVision Data inserted in table
+INFO    2018-05-29 13:30:24,883 [main] hello.Application  - ResponseEntity Object Executed
+DEBUG   2018-05-29 13:30:39,025 [main] org.apache.htrace.core.Tracer  - sampler.classes = ; loaded no samplers
+DEBUG   2018-05-29 13:30:39,063 [main] org.apache.htrace.core.Tracer  - span.receiver.classes = ; loaded no span receivers
+INFO    2018-05-29 13:30:39,908 [main] hello.HBaseConnection  - GVision Data inserted in table
+INFO    2018-05-29 13:30:39,914 [main] hello.HBaseConnection  - MSVision Data inserted in table
